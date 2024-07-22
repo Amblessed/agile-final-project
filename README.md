@@ -1,12 +1,11 @@
 # agile-final-project
 Final Project for the Introduction to Agile Development and Scrum offered by IBM on Coursera
 
+## Project Description 
+Your team has been tasked with developing the backend product catalog for an e-commerce website. Stakeholders require the ability to create, retrieve, update, and delete products from the catalog, along with features like indicating product likes and hosting on a cloud environment with automated deployments. Your team will use a kanban board to create a backlog and sprint plan for this work. As the product owner, you will drive the process by leveraging the skills learned in the lessons and labs to create a new GitHub repository and kanban board and fill the kanban board with issues that will become user stories.
 
-#### Your team has been tasked with developing the backend product catalog for an e-commerce website. Stakeholders require the ability to create, retrieve, update, and delete products from the catalog, along with features like indicating product likes and hosting on a cloud environment with automated deployments. 
-#### Your team will use a kanban board to create a backlog and sprint plan for this work. As the product owner, you will drive the process by leveraging the skills learned in the lessons and labs to create a new GitHub repository and kanban board and fill the kanban board with issues that will become user stories.
 
-
-# Stakeholder Requirements
+## Stakeholder Requirements
 - These are the requirements from your stakeholders that you should use to create the user stories in Kanban board.
 - Need the ability to create a product in the catalog.
 - Need the ability to retrieve a product from the catalog.
@@ -18,8 +17,9 @@ Final Project for the Introduction to Agile Development and Scrum offered by IBM
 - Need the ability to query a subset of products in the catalog.
 - Must be hosted in the cloud.
 - Must have automation to deploy new changes to the cloud.
+- 
 
-# Instructional Tasks
+## Instructional Tasks
 - Create a new GitHub repository called agile-final-project and ensure it is public.
 - Create a Project in your GitHub repository and name it Final Project.
 - Create an issue template for the new repository similar to the labs.
